@@ -10,4 +10,4 @@ YOLOv5 is a state-of-the-art object detection algorithm, known for its speed and
 
 Dataset
 
-To train and evaluate the drowsiness detection model, we curated a comprehensive dataset containing images and corresponding labels indicating the presence of drowsiness in drivers. The dataset has been carefully annotated to ensure accurate training and reliable performance.
+To train and evaluate the drowsiness detection model, we curated a comprehensive dataset containing images and corresponding labels indicating the presence of drowsiness in drivers. The dataset has been carefully annotated to ensure accurate training and reliable performance
